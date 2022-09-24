@@ -2,12 +2,12 @@
 ** Here we present out team of 3 developers working to make NWC department site.**<br>
 
 ### Coders
-[**“Nice! That README alone is already gold!”**]<br>
-- Vartika Yaduvanshi 
-[**“Awesome. Simply awesome.”**]<br>
-- Yash Kishore Parwani
-[**“Small world."**]<br>
-- Jaideep Singh Garlyal
+[**“Nice! That README alone is already gold!”**]
+- Vartika Yaduvanshi<br> 
+[**“Awesome. Simply awesome.”**]
+- Yash Kishore Parwani<br>
+[**“Small world."**]
+- Jaideep Singh Garlyal<br>
 
 Table of Contents
 ------------------
