@@ -27,6 +27,7 @@ Features
 - **It's a responsive site.**
 - We have added **About Us** column where you can see know more column where you can get the gist about the board members.
 - We have added **Activity** column where you can get more about the **NWC** department achievements.
+
 Prerequisites
 ----------------
 - [MongoDB](https://www.mongodb.com/download-center/community)
