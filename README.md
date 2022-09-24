@@ -1,5 +1,5 @@
 # Dil mange more 
-** Here we present out team of 3 developers working to make NWC department site.**<br>
+ Here we present out team of 3 developers working to make NWC department site.<br>
 
 ### Coders
 > - Vartika Yaduvanshi 
@@ -18,3 +18,6 @@ Table of Contents
 - [Project Structure](#project-structure)
 - [List of Packages](#list-of-packages)
 - [Useful Tools and Resources](#useful-tools-and-resources)
+- [Pro Tips](#pro-tips)
+- [FAQ](#faq)
+- [How It Works](#how-it-works-mini-guides)
