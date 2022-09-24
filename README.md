@@ -12,12 +12,12 @@
 Table of Contents
 ------------------
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [List of Packages](#list-of-packages)
-- [Useful Tools and Resources](#useful-tools-and-resources)
-- [Pro Tips](#pro-tips)
-- [FAQ](#faq)
-- [How It Works](#how-it-works-mini-guides)
+>- [Features](#features)
+>- [Prerequisites](#prerequisites)
+>- [Getting Started](#getting-started)
+>- [Project Structure](#project-structure)
+>- [List of Packages](#list-of-packages)
+>- [Useful Tools and Resources](#useful-tools-and-resources)
+>- [Pro Tips](#pro-tips)
+>- [FAQ](#faq)
+>- [How It Works](#how-it-works-mini-guides)
