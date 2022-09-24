@@ -20,4 +20,4 @@ Table of Contents
 >- [Useful Tools and Resources](#useful-tools-and-resources)
 >- [Pro Tips](#pro-tips)
 >- [FAQ](#faq)
->- [How It Works](#how-it-works-mini-guides)
+>- [How It Works](#how-it-works-mini-guides)G
