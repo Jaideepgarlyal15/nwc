@@ -14,13 +14,10 @@ Table of Contents
 
 >- [Features](#features)
 >- [Prerequisites](#prerequisites)
->- [Getting Started](#getting-started)
->- [Project Structure](#project-structure)
 >- [List of Packages](#list-of-packages)
 >- [Useful Tools and Resources](#useful-tools-and-resources)
 >- [Pro Tips](#pro-tips)
->- [FAQ](#faq)
->- [How It Works](#how-it-works-mini-guides)
+
 
 Features
 -----------------
@@ -37,3 +34,18 @@ Prerequisites
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Figma for Prototyping](https://www.figma.com/)
+UseFull Tools
+----------------
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Figma for Prototyping](https://www.figma.com/)
+UseFull Tools
+-[Github](https://github.com/)
+-[Vercel](https://vercel.com/)
+
+Pro Tips
+-----------------
+- Real time update in upcoming events .
+- Contact us page will help you to cure all your queries.
+- In event column you can see all the past year events conducted by NWC department.
+
